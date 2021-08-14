@@ -6,9 +6,9 @@ This weather app tells the weather conditon of every place on Earth.
 <br>
 ### Features
 Tells the:
-  Temperature
-  clouds
-  Decsription
+  Temperature <br>
+  clouds <br.
+  Decsription <br>
 
 ### Languages
   HTML
