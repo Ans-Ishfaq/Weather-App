@@ -7,11 +7,11 @@ This weather app tells the weather conditon of every place on Earth.
 ### Features
 Tells the:
   Temperature <br>
-  clouds <br.
+  Clouds <br>
   Decsription <br>
 
-### Languages
-  HTML
-  CSS
-  JavaScript
+### Languages <br>
+  HTML <br>
+  CSS <br>
+  JavaScript <br>
   
